@@ -2,7 +2,7 @@
 
 About Dataset
 
-Prospective cohort study was conducted in Mexican mestizo patients newly diagnosed with CIS who presented at the National Institute of Neurology and Neurosurgery (NINN) in Mexico City, Mexico, between 2006 and 2010.
+Prospective cohort study was conducted in Mexican mestizo patients newly diagnosed with CIS (Clinically isolated syndrome) who presented at the National Institute of Neurology and Neurosurgery (NINN) in Mexico City, Mexico, between 2006 and 2010.
 
 Multiple sclerosis (MS):
 "Is the most common demyelinating disease, in which the insulating covers of nerve cells in the brain and spinal cord are damaged. This damage disrupts the ability of parts of the nervous system to transmit signals, resulting in a range of signs and symptoms, including physical, mental, and sometimes psychiatric problems. Specific symptoms can include double vision, visual loss, muscle weakness, and trouble with sensation or coordination. MS takes several forms, with new symptoms either occurring in isolated attacks (relapsing forms) or building up over time (progressive forms). In the relapsing forms of MS, between attacks, symptoms may disappear completely, although some permanent neurological problems often remain, especially as the disease advances.
